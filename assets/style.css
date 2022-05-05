@@ -383,12 +383,7 @@ justify-content: space-evenly;
 
 
 
-
-
-
-
-
-
+/*meu footer*/
 
 footer{
   background-image: url(/assets/images/dark_footer.png);
@@ -441,8 +436,10 @@ margin: auto;
 text-align: center;
 list-style: none;
 padding-bottom: 25px;
+width: 50%;
 }
 
+/*meu footer*/
 
 
 
